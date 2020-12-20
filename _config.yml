@@ -6,7 +6,7 @@ url:
 
 # Build settings
 markdown: kramdown
-theme: dev-portfolio-blog
+theme: 
 resume_url: "Resume.pdf"
 author_name: Rohit Jain
 
