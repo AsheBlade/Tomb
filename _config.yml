@@ -1,5 +1,3 @@
-resume_url: 'Resume.pdf'
-author_name: 'John Doe'
 url:
 baseurl: /Tomb
 ############################################################
@@ -141,7 +139,11 @@ assets:
 google_analytics: 'UA_123456789_1'
 
 # Disqus Comments
+resume_url: 
+author_name:  
+description: 
+deadPerson_name: 張愛玲 | Eileen Chang
+url:
+google_analytics: 
 disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: my_disqus_shortname
+    shortname: AsheBlade
