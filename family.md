@@ -10,5 +10,5 @@ permalink: /family
 
 ## 家族树
 
-![](../assets/Family_Tree.png)
+![](/assets/Family_Tree.png)
 
