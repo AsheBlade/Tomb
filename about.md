@@ -24,6 +24,4 @@ permalink: /about/
 
 [familyTree](/assets/favicon.png)
 
-[cpdf](/_research/c.pdf)
-
-
+[familyTree](/assets/favicon.png)
