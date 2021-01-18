@@ -24,6 +24,6 @@ permalink: /about/
 
 [familyTre](/assets/Family_Tree.png)
 
-
+[cpdf](/_research/c.pdf)
 
 
