@@ -18,11 +18,11 @@ permalink: /about/
 
 [get the PDF]({{ site.url }}/_research/c.pdf) 
 
-[相见不如怀念——忆陪张爱玲逛台湾]( /assets/favicon.png).  
+[相见不如怀念——忆陪张爱玲逛台湾](/assets/Family_Tree.png).  
 
 一份很珍贵的张爱玲陪同人员的回忆录. 以一个旁观者的视角记录了张爱玲平时的习惯和细节. 
 
-[familyTre](/assets/Family_Tree.png)
+[familyTree](/assets/favicon.png)
 
 [cpdf](/_research/c.pdf)
 
