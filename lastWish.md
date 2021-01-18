@@ -4,6 +4,8 @@ layout: description
 permalink: /lastWish
 ---
 
+此处用来陈列逝者的遗嘱
+
 ## 遗嘱原件
 
 ![](/assets/LastWish.jpg)
