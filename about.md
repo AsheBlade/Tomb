@@ -26,4 +26,6 @@ permalink: /about/
 
 [familyTree](/assets/favicon.png)
 
-[c](/assets/_reserach/相见不如怀念——忆陪张爱玲逛台湾.pdf)
+[c](/assets/_research/相见不如怀念——忆陪张爱玲逛台湾.pdf)
+
+[cc'c'c](/assets/_research/c.pdf)
